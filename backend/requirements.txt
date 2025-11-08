@@ -1,0 +1,10 @@
+PyJWT
+bcrypt
+fastapi
+httpx
+pydantic
+python-dotenv
+supabase
+uvicorn
+uvicorn[standard]
+boto3
